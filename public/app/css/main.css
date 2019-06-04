@@ -1,0 +1,57 @@
+body {
+  background-color: black;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+p, h1, h2, h3, h4 {
+  color: white;
+  display: block;
+}
+
+h1, h2, h3, h4 {
+  width: 150px;
+  margin: 0 auto;
+}
+
+p {
+  margin-bottom: 0;
+}
+
+select, button, input {
+  display: block;
+  width: 150px;
+  font-size: 30px;
+  background-color: rgb(32, 32, 32);
+  border: 1px solid black;
+  border-radius: 15px;
+  padding: 2px;
+  color: white;
+}
+
+form {
+  width: 400px;
+  margin: 0 auto;
+  display: block;
+}
+
+.mcPickYes {
+  width: 200px;
+  float: left;
+}
+
+.mcPickNos {
+  float: right;
+  width: 200px;
+}
+
+select {
+  margin: 10px;
+}
+
+#yourName {
+  margin: 0 auto;
+}
+
+button, input {
+  margin: 110px auto;
+}
