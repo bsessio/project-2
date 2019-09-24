@@ -44,6 +44,11 @@ form {
   width: 200px;
 }
 
+.mcPickDev {
+	width: 200px;
+	margin: 0 auto;
+}
+
 select {
   margin: 10px;
 }
