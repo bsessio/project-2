@@ -20,7 +20,7 @@ $(document).ready(function() {
 		  const mcPick4 = document.getElementById("mcPick-4").value;
 		  console.log(name, mcPick1);
 	
-		  if (name === '' || mcPick1 === '' || mcPick2 === '' || mcPick3 === '' || mcPick4 === '' || mcPick-Dev) {
+		  if (name === '' || mcPick1 === '' || mcPick2 === '' || mcPick3 === '' || mcPick4 === '' || mcPickDev) {
 			  alert("Please fill out all fields, or this entry will not be counted");
 			  return false;
 	
